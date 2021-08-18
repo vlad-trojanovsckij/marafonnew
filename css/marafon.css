@@ -1,0 +1,30 @@
+footer>div{
+    background-image: url(../img/map.png);
+    height: 644px;
+    width: 1440px;
+    background-repeat: no-repeat;  
+    padding-top: 52px;
+    
+}
+.restangle{
+    border: none;
+    background: #F7FAFC;
+    box-shadow: 0px 4px 40px rgba(217, 217, 217, 0.3);
+    border-radius: 12px;
+    width: 386px;
+    height: 520px;
+    margin-left: 222px;
+    padding: 0px;
+}
+.restangle h2{
+    font-size: 36px;
+    color: #AE7C78;
+    padding-top: 40px;
+    padding-left: 35px;
+}
+.restangle p{
+    font-size: 16px;
+    color: #AE7C78;
+    padding-top: 10px;
+    padding-left: 35px;
+}
